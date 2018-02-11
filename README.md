@@ -7,9 +7,10 @@ This is a personal project to make it easy for me to set up my super-fancy
 
 
 
+## Requires
 
-
-git config --global core.excludesfile ~/.gitignore_global
+1. Homebrew
+2. Powerline-Font
 
 
 
@@ -22,7 +23,7 @@ git config --global core.excludesfile ~/.gitignore_global
 
     ```
     cd ~
-    git clone https://github.com/cviebrock/.oh-my-zsh-custom.git
+    git clone https://github.com/MarcelRittershaus/.oh-my-zsh-custom
     ```
 
 3. Edit the following entries in your `~/.zshrc` file:
